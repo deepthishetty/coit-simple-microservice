@@ -12,4 +12,4 @@
 
 ## Pushing the container
 ` $ docker push $DOCKER_USER_ID/sentiment-analysis-frontend `
-hi
+test
